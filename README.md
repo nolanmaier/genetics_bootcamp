@@ -12,7 +12,7 @@ To become acquainted with CRISPR screens in mammalian cells. Students will be in
 [Przybyla L and Gilbert LA. A new era in functional genomics. Nature Reviews Genetics 2021](https://doi.org/10.1038/s41576-021-00409-w)
 
 
-## Course overview:
+## Course overview
 9:30-10:30  Lecture on CRISPR screening technologies
 
 10:30-11:00 Examples of CRISPR screens to explore host-microbiome interactions
