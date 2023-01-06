@@ -26,4 +26,5 @@ To become acquainted with CRISPR screens in mammalian cells. Students will be in
 ## Materials
 The sequencing data processing section of the course will use materials from this repo.
 
-The CRISPR screen analysis section of the course will use the Jupyter notebook and data in this repo. The notebook can be run directly in a Binder instance [HERE](https://mybinder.org/v2/gh/nolanmaier/genetics_bootcamp/5c0c0b8f4ea42a017ad91468342e7340650048e9?urlpath=lab%2Ftree%2Fscreen_analysis.ipynb).
+The CRISPR screen analysis section of the course will use the Jupyter notebook and data in this repo. The notebook can be run directly in a Binder instance [HERE](https://mybinder.org/v2/gh/nolanmaier/genetics_bootcamp/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fnolanmaier%2Fgenetics_bootcamp%2Fblob%2Fmain%2FCRISPR_screen_analysis.ipynb). 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nolanmaier/genetics_bootcamp/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fnolanmaier%2Fgenetics_bootcamp%2Fblob%2Fmain%2FCRISPR_screen_analysis.ipynb)
